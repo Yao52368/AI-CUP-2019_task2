@@ -9,10 +9,15 @@
 　Private Score : 0.741327 	
 ## File Description
 　Source code：AI-CUP-2019_task2.ipynb  
+   
 　Train Dataset：data/trainset.csv  
+    
 　Valid Dataset：data/validset.csv  
+   
 　Public Dataset：data/testset.csv  
+   
 　Private Dataset：data/task2_private_testset.csv  
+   
 　Pretrained Scibert：Scibert  
 ## How to run?
 　Step 1. Install requirement package  
