@@ -28,10 +28,6 @@
     
 　　●  tensorflow：1.12.0  
     
-　　●  sklearn：0.21.3  
-    
-　　●  pandas：0.25.3  
-    
 　Step 2. Run AI-CUP-2019_task2.ipynb  
    
 　　●  You can run the file in order and train the model by yourself.  
