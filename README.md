@@ -2,7 +2,7 @@
 ## Competition Description
 從arXiv的電腦科學相關論文摘要，預測出摘要所屬的類別(Theoretical Paper, Engineering Paper, Empirical Paper, Others)。
 ## Introduction
-Team Name : NCKUDM_UrbanComputing  
+    Team Name : NCKUDM_UrbanComputing  
   
 Public Score : 0.714503  
   
