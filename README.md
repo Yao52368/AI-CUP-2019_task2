@@ -18,11 +18,13 @@
    
 　Private Dataset：data/task2_private_testset.csv  
    
-　Pretrained Scibert：Scibert  
+　Pretrained Scibert：Scibert/  
 ## How to run?
 　Step 1. Install requirement package  
 　　●  [keras-bert](https://github.com/CyberZHG/keras-bert)  
 　　●  keras：2.2.4  
 　　●  tensorflow：1.12.0  
-　　●  skleearn：0.21.3  
-　　●  pandas：0.25.3
+　　●  sklearn：0.21.3  
+　　●  pandas：0.25.3  
+　Step 2. Run AI-CUP-2019_task2.ipynb  
+　　●  
