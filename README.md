@@ -21,6 +21,7 @@
 　Pretrained Scibert：Scibert/  
 ## How to run?
 　Step 1. Install requirement package  
+   
 　　●  [keras-bert](https://github.com/CyberZHG/keras-bert)  
     
 　　●  keras：2.2.4  
@@ -32,4 +33,11 @@
 　　●  pandas：0.25.3  
     
 　Step 2. Run AI-CUP-2019_task2.ipynb  
-　　●  
+   
+　　●  You can run the file in order and train the model by yourself.  
+    
+　Step 3. Run with our model
+    
+　　●  Download [our model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put it in save/  
+  
+　　●  Run load_model line in "Load and Save model" block 
