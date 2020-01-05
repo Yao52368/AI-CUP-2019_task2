@@ -36,4 +36,4 @@
     
 　　●  Download [our model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put it in save/  
   
-　　●  Run load_model line in "Load and Save model" block 
+　　●  Run load_model line in "Load and Save model" block in source code
