@@ -30,8 +30,8 @@
     
   + Download [model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put model in save/  
   
-  + Run the source code without "Modify the model" and "Fine-tuning the model" cells
-    
   + Run load_model line in "Load and Save model" cell in source code
+    
+  + Run the source code without "Modify the model" and "Fine-tuning the model" cells
     
   + Testing with our model
