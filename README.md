@@ -1,6 +1,6 @@
 # AICUP-2019-task2-Abstract_Classification  
-## Team Name : NCKUDM_UrbanComputing  
 ***
+## Team Name : NCKUDM_UrbanComputing  
 ## File Description
 + Source code：AI-CUP-2019_task2.ipynb  
    
