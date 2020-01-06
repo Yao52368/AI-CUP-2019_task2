@@ -24,10 +24,14 @@
     
 + Step 2. Run AI-CUP-2019_task2.ipynb  
    
-  + You can run the file in order and train the model by yourself.  
+  + Run cells in order and you can train the model by yourself.  
     
 + Step 3. Run with our well-trained model
     
   + Download [model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put model in save/  
   
-  + Run load_model line in "Load and Save model" block in source code
+  + Run the source code without "Modify the model" and "Fine-tuning the model" cells
+    
+  + Run load_model line in "Load and Save model" cell in source code
+    
+  + Testing with out model
