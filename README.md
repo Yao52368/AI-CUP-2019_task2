@@ -26,8 +26,8 @@
    
   + You can run the file in order and train the model by yourself.  
     
-+ Step 3. Run with our model
++ Step 3. Run with our well-trained model
     
-  + Download [our model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put it in save/  
+  + Download [model](https://drive.google.com/open?id=1_IoF1hW-55WtoukyAsfNefeY5tHI4szW), create folder named "save" and put model in save/  
   
   + Run load_model line in "Load and Save model" block in source code
