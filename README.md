@@ -34,4 +34,4 @@
     
   + Run load_model line in "Load and Save model" cell in source code
     
-  + Testing with out model
+  + Testing with our model
